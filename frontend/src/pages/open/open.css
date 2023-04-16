@@ -1,0 +1,108 @@
+.open-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    background-color: #1263DF;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+
+ 
+  .open {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    margin-bottom: 65px;
+    background-color: #1263DF;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+
+  .open-logo{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 150px;
+  }
+
+  .open-LOGO{
+    
+    height: 50px;
+  }
+  
+  
+  .h2-open {
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 48px;
+    line-height: 1;
+    color: white;
+  }
+  
+  h3 {
+    margin-top: 0px;
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 48px;
+    line-height: 1.5;
+    color: white;
+  }
+  
+  .img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 40px;
+    margin-bottom: 350px;
+    background-color: #1263DF;
+    margin-left: 20px;
+    margin-top: 60px;
+  }
+
+  /* .pic{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    padding-left: 600px;
+    padding-top: 320px;
+    padding-right: 200px;
+    padding-bottom: 60px;
+  }  */
+ 
+  
+  
+  .next {
+    display: flex;
+    width: 100%;
+    padding-left: 250px;
+    background-color: #1263DF;
+
+  }
+
+  .open-button{
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    width: 90px;
+    margin-right: 10px;
+    position: absolute;
+    top: 800px;
+    right: 10px;
+    padding: 10px;
+  }
+
+
+  
+  
