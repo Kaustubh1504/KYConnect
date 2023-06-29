@@ -1,5 +1,7 @@
 # KYConnect - User-Friendly Customer Onboarding App
 KYConnect is a user-friendly and secure customer onboarding application that integrates OCR (Optical Character Recognition), barcode decoding, and face verification for personal detail validation. It provides a seamless and efficient way to validate customer identification documents such as Aadhar and PAN cards.
+## Link to Hosted Website (best viewed on mobile)
+https://kyconnectspitclient.onrender.com/
 
 ## Key Features
 
