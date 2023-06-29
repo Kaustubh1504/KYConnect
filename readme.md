@@ -10,6 +10,11 @@ https://kyconnectspitclient.onrender.com/
 - Barcode decoding: KYConnect leverages the Pyzbar library to decode barcodes present on identification documents swiftly. This facilitates easy and error-free retrieval of critical information from the documents.
 - Face verification: DeepFace, a Python library, is integrated into KYConnect for face verification. This ensures that the customer's face matches the photo on their identification document, adding an additional layer of security.
 - Confirmation email:The confirmation email feature in KYConnect is implemented using the Nodemailer library, a popular Node.js module for sending emails. Nodemailer provides a simple and efficient way to send automated emails, ensuring reliable delivery and seamless communication with customers.
+
+![4](https://github.com/Kaustubh1504/KYConnect/assets/122547394/458e0fe8-3e8a-4b7c-b872-c7a6f979fcba)
+![3](https://github.com/Kaustubh1504/KYConnect/assets/122547394/8a05ad16-bc31-4393-b503-a8e0dac582e3)
+![1](https://github.com/Kaustubh1504/KYConnect/assets/122547394/c1df03e0-57f8-4597-8b49-07bb8c0bb15a)
+![2](https://github.com/Kaustubh1504/KYConnect/assets/122547394/1dd661e2-b667-424a-b3b2-e0e8a574fb15)
 ## Tech Stack
 
 - Backend: MERN stack (MongoDB, Express.js, React.js, Node.js)
