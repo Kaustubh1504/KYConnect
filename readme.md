@@ -9,7 +9,7 @@ https://kyconnectspitclient.onrender.com/
 - OCR integration: The application utilizes Tesseract, a popular OCR library, to extract text from scanned documents accurately. This enables automatic population of customer details into the system, reducing manual data entry.
 - Barcode decoding: KYConnect leverages the Pyzbar library to decode barcodes present on identification documents swiftly. This facilitates easy and error-free retrieval of critical information from the documents.
 - Face verification: DeepFace, a Python library, is integrated into KYConnect for face verification. This ensures that the customer's face matches the photo on their identification document, adding an additional layer of security.
-
+- Confirmation email:The confirmation email feature in KYConnect is implemented using the Nodemailer library, a popular Node.js module for sending emails. Nodemailer provides a simple and efficient way to send automated emails, ensuring reliable delivery and seamless communication with customers.
 ## Tech Stack
 
 - Backend: MERN stack (MongoDB, Express.js, React.js, Node.js)
